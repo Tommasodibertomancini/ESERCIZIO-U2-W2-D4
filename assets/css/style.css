@@ -1,0 +1,46 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Inter', sans-serif;
+}
+
+#utente {
+  border-radius: 50%;
+  height: 50px;
+}
+
+#bell {
+  border-radius: 50%;
+}
+
+#heroSect {
+  background-color: #7550fe;
+}
+
+.button {
+  background-color: #19cb98;
+}
+
+#loghetto {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  background-color: #ffeeda;
+}
+
+#author {
+  border-radius: 50%;
+  height: 40px;
+}
+
+#star {
+  width: 15pxx;
+  height: 15px;
+}
+
+.voto {
+  margin-right: 10px;
+  color: #FFB55F;
+}
